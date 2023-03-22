@@ -1,0 +1,36 @@
+var1 = "love you riya =" 
+var2 = 100
+var3 = 1234.5678
+num1 = 5656
+print("hello world")
+print(type(var1))
+print(type(var2))
+print(type(var3))
+print(type(num1))
+print(var1)
+print(var2)
+print(var3)
+print(num1)
+print("bye bye world")
+print(var2 + var3)
+print(var2 - var3)
+print(var2 * var3)
+print(var2 / var3)
+print(var2 % var3)
+print(type(var2*var3))
+print(type(var2/var3))
+print(type(var2%var3))
+print(var2 + num1)
+print(var3 + num1)
+print(type(var2+ num1))
+print(type(var3 + num1))
+var4 = "= riya love omkar"
+print(var4)
+print(type(var4))
+print(var1 + var4)
+print(type(var1 + var4))
+var5 = " X 3000 TIMES"
+print(var5)
+print(type(var5))
+print(var1 + var4 + var5)
+print(type(var1 + var4 + var5))
